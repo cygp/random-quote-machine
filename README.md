@@ -1,1 +1,1 @@
-# random-quote-machine
+https://cygp.github.io/random-quote-machine/
